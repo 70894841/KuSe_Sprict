@@ -181,7 +181,7 @@ namespace SAwareness
                     return;
                 foreach (MenuItem item in Menu.Items)
                 {
-                    if (item.DisplayName == "Active")
+                    if (item.DisplayName == "鏄惁鍚敤")
                     {
                         item.SetValue(active);
                         return;
